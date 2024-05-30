@@ -1,0 +1,18 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+h1{
+  color: blue;
+  font-size: 80px;
+  border: 10px dashed lightblue;
+  text-align: center;
+}
+img{
+  width: 600px
+}
+
+img:hover{
+  opacity:0.5;
+  transition: 5s linear
+}
